@@ -1,4 +1,10 @@
 # MazinhoDM
 Meu repositório pessoal
-:melting_face:
-:melting_face:
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍁</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍄</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🥃</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍺</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🥂</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐨</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🦥</font></font>
